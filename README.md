@@ -12,6 +12,8 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 #Step 1
+
+
 -You need to create a Alchemy account to use their tools.
 -Go to https://www.alchemy.com/ and create an account.
 -After you register you will see "Create App" page.
