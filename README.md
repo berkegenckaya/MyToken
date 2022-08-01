@@ -11,7 +11,7 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-#Step 1
+# Step 1
 
 
 -You need to create a Alchemy account to use their tools.
